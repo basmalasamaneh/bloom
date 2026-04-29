@@ -1,0 +1,33 @@
+Environment Check
+---------------------------------
+Selected Environment OK? Not recommended
+Notes: Rice is typically unsuitable for standard indoor container growth as it requires extremely high light intensity, constant saturation or flooding, and high humidity that typical indoor environments lack.
+Recommended Environment: outdoor
+Recommended Location: Full sun in a flooded paddy or a large, water-retaining container
+Recommended Soil Type: Heavy clay or silty clay to retain standing water
+
+Estimated Life Cycle Timeline
+---------------------------------
+Germination          2026-01-16 -> 2026-01-30
+Vegetative Phase     2026-01-31 -> 2026-05-15
+Reproductive Phase   2026-05-16 -> 2026-06-30
+Ripening and Harvest 2026-07-01 -> 2026-08-15
+
+AI Life Cycle & Care Advice
+---------------------------------
+Current Stage: Sowing and Germination
+Confidence: 0.9
+
+Care:
+Watering: Maintain 2-5 cm of standing water above the soil surface at all times during the growing season.
+Fertilizer: Apply a nitrogen-rich fertilizer during the early vegetative stage and a balanced NPK mix before the flowering stage.
+Sunlight: Requires a minimum of 6-8 hours of direct, intense sunlight daily.
+Pruning: Remove any weeds immediately to prevent competition for nutrients.
+Soil: Use heavy clay soil that minimizes water drainage.
+Pests: Watch for aphids, stem borers, and fungal diseases like rice blast.
+
+Red Flags:
+- Yellowing leaves indicating nitrogen deficiency
+- Wilting or drying soil surface
+- Brown lesions on leaves suggesting fungal blast
+- Stunted growth due to low temperatures below 15C

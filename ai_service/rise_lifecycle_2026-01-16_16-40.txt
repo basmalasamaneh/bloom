@@ -1,0 +1,33 @@
+Environment Check
+---------------------------------
+Selected Environment OK? OK
+Notes: Rice can be grown indoors in containers provided there is sufficient light and the soil is kept submerged or saturated. Clay soil is actually beneficial as it retains the necessary water.
+Recommended Environment: outdoor
+Recommended Location: Full sun in a location that can maintain 2-5 inches of standing water
+Recommended Soil Type: Heavy clay or silty clay
+
+Estimated Life Cycle Timeline
+---------------------------------
+Germination          2026-01-16 -> 2026-01-30
+Vegetative Growth    2026-01-31 -> 2026-04-15
+Reproductive/Flowering 2026-04-16 -> 2026-05-20
+Ripening/Harvest     2026-05-21 -> 2026-06-20
+
+AI Life Cycle & Care Advice
+---------------------------------
+Current Stage: Sowing/Germination
+Confidence: 0.95
+
+Care:
+Watering: Keep soil constantly submerged under 2 inches of water or maintain extreme saturation.
+Fertilizer: Apply nitrogen-rich fertilizer during the early vegetative stage and a balanced fertilizer during booting.
+Sunlight: Requires at least 6-8 hours of direct light; if indoors, use high-intensity grow lights.
+Pruning: Not required, but remove any dead or diseased leaves as they appear.
+Soil: Heavy clay is ideal to prevent water drainage.
+Pests: Watch for aphids or spider mites if kept indoors; use neem oil if necessary.
+
+Red Flags:
+- Yellowing leaves (potential nitrogen deficiency)
+- Brown spots on leaves (Rice Blast fungus)
+- Soil surface drying out
+- Stunted growth due to insufficient light

@@ -1,0 +1,11 @@
+{
+  "image_path": "D:\\bloom\\bloom\\ai_service\\img\\images.jpg",
+  "planting_date": "2025-11-07",
+  "soil_type": "loamy",
+  "plant_location": "container",
+  "weather": {
+    "location": "Nablus",
+    "temperature_c": 18,
+    "conditions": "Sunny"
+  }
+}

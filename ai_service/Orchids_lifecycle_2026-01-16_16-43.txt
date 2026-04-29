@@ -1,0 +1,33 @@
+Environment Check
+---------------------------------
+Selected Environment OK? Not recommended
+Notes: Orchids are epiphytic plants and will likely experience root rot in loamy soil which lacks necessary aeration. Additionally, outdoor exposure in unknown regions can lead to temperature fluctuations or direct sun scorch that most common orchids cannot tolerate.
+Recommended Environment: indoor
+Recommended Location: Bright windowsill with indirect sunlight, preferably east or west facing.
+Recommended Soil Type: Specialized orchid bark mix or sphagnum moss.
+
+Estimated Life Cycle Timeline
+---------------------------------
+Establishment and Rooting 2026-01-16 -> 2026-03-16
+Vegetative Growth    2026-03-17 -> 2026-09-17
+Flower Spiking       2026-09-18 -> 2026-11-18
+Blooming             2026-11-19 -> 2027-02-19
+
+AI Life Cycle & Care Advice
+---------------------------------
+Current Stage: Newly Planted / Establishment
+Confidence: 0.9
+
+Care:
+Watering: Water once a week by soaking the bark and then draining all excess water. Never let the crown or roots sit in standing water.
+Fertilizer: Apply a balanced orchid fertilizer at half-strength every two weeks during active growth.
+Sunlight: Provide bright, filtered light. Avoid direct midday sun which can burn the leaves.
+Pruning: Cut back the flower spike to the base or a node once the blooms have completely withered.
+Soil: Replace loamy soil immediately with a coarse mix of fir bark, perlite, and charcoal to allow root respiration.
+Pests: Monitor for mealybugs, scale, and spider mites on the undersides of leaves.
+
+Red Flags:
+- Black or mushy roots (root rot)
+- Yellowing leaves
+- Wrinkled or leathery leaves (dehydration)
+- White cottony masses (mealybugs)

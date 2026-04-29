@@ -1,0 +1,30 @@
+🌿 Estimated Life Cycle Timeline 🌱
+---------------------------------
+Germination          2026-01-15 -> 2026-01-29
+Seedling             2026-01-29 -> 2026-02-12
+Vegetative Growth    2026-02-13 -> 2026-03-06
+Flowering            2026-03-07 -> 2026-03-21
+Fruiting             2026-03-22 -> 2026-04-15
+Harvest              2026-04-16 -> 2026-05-15
+
+🌿 AI Life Cycle & Care Advice:
+---------------------------------
+Current Stage: Unknown
+Confidence: 0.0
+
+Suitability: Not recommended
+Reason: Not recommended: AI service unavailable; suitability could not be assessed.
+Recommended Environment: indoor
+Recommended Location: greenhouse
+Recommended Soil Type: loamy
+
+Care:
+Watering: Keep soil evenly moist.
+Fertilizer: Use a balanced fertilizer per label directions.
+Sunlight: Aim for 6-8 hours of sunlight if possible.
+Pruning: Remove dead or diseased growth only.
+Soil: Use well-draining soil and add compost if needed.
+Pests: Inspect weekly and treat pests early.
+
+Red Flags:
+- AI service unavailable; using default guidance.
